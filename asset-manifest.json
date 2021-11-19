@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/%3Cuser%20name%3E/%3Crepo%20name%3E/static/css/main.8b057839.chunk.css",
-    "main.js": "/%3Cuser%20name%3E/%3Crepo%20name%3E/static/js/main.6c02ff06.chunk.js",
-    "main.js.map": "/%3Cuser%20name%3E/%3Crepo%20name%3E/static/js/main.6c02ff06.chunk.js.map",
-    "runtime-main.js": "/%3Cuser%20name%3E/%3Crepo%20name%3E/static/js/runtime-main.845c20a8.js",
-    "runtime-main.js.map": "/%3Cuser%20name%3E/%3Crepo%20name%3E/static/js/runtime-main.845c20a8.js.map",
-    "static/js/2.8d835b4e.chunk.js": "/%3Cuser%20name%3E/%3Crepo%20name%3E/static/js/2.8d835b4e.chunk.js",
-    "static/js/2.8d835b4e.chunk.js.map": "/%3Cuser%20name%3E/%3Crepo%20name%3E/static/js/2.8d835b4e.chunk.js.map",
-    "static/js/3.f9b8d727.chunk.js": "/%3Cuser%20name%3E/%3Crepo%20name%3E/static/js/3.f9b8d727.chunk.js",
-    "static/js/3.f9b8d727.chunk.js.map": "/%3Cuser%20name%3E/%3Crepo%20name%3E/static/js/3.f9b8d727.chunk.js.map",
-    "index.html": "/%3Cuser%20name%3E/%3Crepo%20name%3E/index.html",
-    "static/css/main.8b057839.chunk.css.map": "/%3Cuser%20name%3E/%3Crepo%20name%3E/static/css/main.8b057839.chunk.css.map",
-    "static/js/2.8d835b4e.chunk.js.LICENSE.txt": "/%3Cuser%20name%3E/%3Crepo%20name%3E/static/js/2.8d835b4e.chunk.js.LICENSE.txt"
+    "main.css": "/ericmbc/project-4-assesment/static/css/main.8b057839.chunk.css",
+    "main.js": "/ericmbc/project-4-assesment/static/js/main.6c02ff06.chunk.js",
+    "main.js.map": "/ericmbc/project-4-assesment/static/js/main.6c02ff06.chunk.js.map",
+    "runtime-main.js": "/ericmbc/project-4-assesment/static/js/runtime-main.d12f6cdc.js",
+    "runtime-main.js.map": "/ericmbc/project-4-assesment/static/js/runtime-main.d12f6cdc.js.map",
+    "static/js/2.8d835b4e.chunk.js": "/ericmbc/project-4-assesment/static/js/2.8d835b4e.chunk.js",
+    "static/js/2.8d835b4e.chunk.js.map": "/ericmbc/project-4-assesment/static/js/2.8d835b4e.chunk.js.map",
+    "static/js/3.f9b8d727.chunk.js": "/ericmbc/project-4-assesment/static/js/3.f9b8d727.chunk.js",
+    "static/js/3.f9b8d727.chunk.js.map": "/ericmbc/project-4-assesment/static/js/3.f9b8d727.chunk.js.map",
+    "index.html": "/ericmbc/project-4-assesment/index.html",
+    "static/css/main.8b057839.chunk.css.map": "/ericmbc/project-4-assesment/static/css/main.8b057839.chunk.css.map",
+    "static/js/2.8d835b4e.chunk.js.LICENSE.txt": "/ericmbc/project-4-assesment/static/js/2.8d835b4e.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.845c20a8.js",
+    "static/js/runtime-main.d12f6cdc.js",
     "static/js/2.8d835b4e.chunk.js",
     "static/css/main.8b057839.chunk.css",
     "static/js/main.6c02ff06.chunk.js"
